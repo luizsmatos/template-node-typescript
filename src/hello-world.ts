@@ -1,3 +1,3 @@
-const helloWorld = (): string => 'Hello World'
+const helloWorld = () => 'Hello World'
 
 export { helloWorld }
